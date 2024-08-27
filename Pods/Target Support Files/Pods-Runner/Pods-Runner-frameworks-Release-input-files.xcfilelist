@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-frameworks.sh
+${BUILT_PRODUCTS_DIR}/BSImagePicker/BSImagePicker.framework
+${BUILT_PRODUCTS_DIR}/image_picker_ios/image_picker_ios.framework
+${BUILT_PRODUCTS_DIR}/multi_image_picker_plus/multi_image_picker_plus.framework
+${BUILT_PRODUCTS_DIR}/path_provider_foundation/path_provider_foundation.framework
+${BUILT_PRODUCTS_DIR}/sqflite/sqflite.framework
+${BUILT_PRODUCTS_DIR}/video_player_avfoundation/video_player_avfoundation.framework
